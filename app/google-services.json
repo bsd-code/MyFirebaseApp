@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907961358833",
+    "project_id": "inicio-34e17",
+    "storage_bucket": "inicio-34e17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907961358833:android:0c2117fa0ec9b899348c50",
+        "android_client_info": {
+          "package_name": "cat.institutmarianao.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907961358833-580ak2ps9aj8so35r9b6tt1griv4q4ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPzoY1zjlOet3zzFE4zoGpkZKTuInR1to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907961358833-580ak2ps9aj8so35r9b6tt1griv4q4ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

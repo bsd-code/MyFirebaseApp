@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyFirebaseApp</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="acces_per_dialeg">Acceso por diálogo</string>
+    <string name="back">Atrás</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- MainActivity -->
+    <string name="main_button_go_to_clients">Ir a clientes</string>
+    <string name="main_button_logout">Cerrar sesión</string>
+    <string name="main_preview_user_email">ejemplo@correo.com</string>
+    <string name="main_user_logged">Conectado como: %1$s</string>
+    <string name="main_user_not_logged">Usuario no conectado</string>
+
+    <!-- Diálogo de Login / Inputs -->
+    <string name="login_dialog_button_login">Iniciar sesión</string>
+    <string name="login_dialog_hint_email">Correo electrónico</string>
+    <string name="login_dialog_hint_password">Contraseña</string>
+
+    <!-- ClientsActivity -->
+    <string name="clients_hint_name">Nombre</string>
+    <string name="clients_hint_age">Edad</string>
+    <string name="clients_button_save">Guardar</string>
+    <string name="clients_button_clear">Limpiar</string>
+    <string name="clients_button_delete">Eliminar</string>
+    <string name="clients_item_age">Edad: %1$d</string>
+    <string name="access_authui">Access (authUI)</string>
+    <string name="firebaseui">FirebaseUI</string>
+</resources>
